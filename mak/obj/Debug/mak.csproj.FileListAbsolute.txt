@@ -1,0 +1,24 @@
+C:\Users\intel9\source\repos\mak\mak\bin\Debug\mak.exe.config
+C:\Users\intel9\source\repos\mak\mak\bin\Debug\mak.exe
+C:\Users\intel9\source\repos\mak\mak\bin\Debug\mak.pdb
+C:\Users\intel9\source\repos\mak\mak\obj\Debug\mak.csproj.AssemblyReference.cache
+C:\Users\intel9\source\repos\mak\mak\obj\Debug\mak.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel9\source\repos\mak\mak\obj\Debug\mak.csproj.CoreCompileInputs.cache
+C:\Users\intel9\source\repos\mak\mak\obj\Debug\mak.exe
+C:\Users\intel9\source\repos\mak\mak\obj\Debug\mak.pdb
+C:\Users\intel9\Desktop\مشروع c#\mak\bin\Debug\mak.exe.config
+C:\Users\intel9\Desktop\مشروع c#\mak\bin\Debug\mak.exe
+C:\Users\intel9\Desktop\مشروع c#\mak\bin\Debug\mak.pdb
+C:\Users\intel9\Desktop\مشروع c#\mak\obj\Debug\mak.csproj.AssemblyReference.cache
+C:\Users\intel9\Desktop\مشروع c#\mak\obj\Debug\mak.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel9\Desktop\مشروع c#\mak\obj\Debug\mak.csproj.CoreCompileInputs.cache
+C:\Users\intel9\Desktop\مشروع c#\mak\obj\Debug\mak.exe
+C:\Users\intel9\Desktop\مشروع c#\mak\obj\Debug\mak.pdb
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\bin\Debug\mak.exe.config
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\bin\Debug\mak.exe
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\bin\Debug\mak.pdb
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\obj\Debug\mak.csproj.AssemblyReference.cache
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\obj\Debug\mak.csproj.SuggestedBindingRedirects.cache
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\obj\Debug\mak.csproj.CoreCompileInputs.cache
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\obj\Debug\mak.exe
+C:\Users\pt\Desktop\مجلد جديد (2)\مشروع c#\mak\obj\Debug\mak.pdb
